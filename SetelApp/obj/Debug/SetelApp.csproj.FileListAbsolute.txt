@@ -1,0 +1,12 @@
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.csproj.AssemblyReference.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.csproj.SuggestedBindingRedirects.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.Properties.Resources.resources
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.csproj.GenerateResource.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.csproj.CoreCompileInputs.cache
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.PageHistory.resources
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.PagePanduan.resources
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\bin\Debug\SetelApp.exe.config
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\bin\Debug\SetelApp.exe
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\bin\Debug\SetelApp.pdb
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.exe
+D:\aisha n\Documents\AISHA\uni\Semester 4\KPL\SetelApp-Test\SetelApp\obj\Debug\SetelApp.pdb
